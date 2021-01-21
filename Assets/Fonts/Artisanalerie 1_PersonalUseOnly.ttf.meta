@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f8df0a91d0f6fb4a9c07268db272787
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Artisanalerie 1_PersonalUseOnly
+  fontNames:
+  - Artisanalerie 1_PersonalUseOnly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
